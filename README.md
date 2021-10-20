@@ -2,7 +2,7 @@
 **Sobre mim**
   - Cursando 3º periodo de analise e    desenvolvimento de sistemas 
 - Estou a procura de um estágio
-- Tenho conhecimento bem basico de HTML, CSS, PHP, C# e C++
+- Tenho conhecimento basico de HTML, CSS, PHP, C# e C++
   
 
 
