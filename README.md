@@ -20,7 +20,7 @@
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://support.discordapp.com/hc/article_attachments/360018208472/wumpbongo.gif">
 </div>
-
+##
  ![Snake animation](https://github.com/DanielTTR/DanielTTR/blob/output/github-contribution-grid-snake.svg)
  
  
