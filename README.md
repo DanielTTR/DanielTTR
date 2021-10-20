@@ -6,11 +6,12 @@
   
 
 
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielTTR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielTTR&show_icons=true&theme=dracula"/>
+</div>
 
-
-![DanielTTR GitHub](https://github-readme-stats.vercel.app/api?username=DanielTTR&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTTR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
