@@ -1,8 +1,7 @@
 ### Olá! meu nome é Daniel Rodrigues 👋
 **Sobre mim**
   - Cursando 4º periodo de analise e    desenvolvimento de sistemas 
-- Estou a procura de um estágio
-- Tenho conhecimento basico de HTML, CSS, PHP, C# e C++
+  - Tenho conhecimento basico de HTML, CSS, PHP, C# e C++
   
 
 
