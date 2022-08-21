@@ -1,7 +1,7 @@
 ### Olá! meu nome é Daniel Rodrigues 👋
 **Sobre mim**
-  - Cursando 4º periodo de analise e    desenvolvimento de sistemas 
-  - Tenho conhecimento basico de HTML, CSS, PHP, C# e C++
+  - Cursando 5º periodo de analise e desenvolvimento de sistemas 
+  - Tenho conhecimento basico de Python, VBS, C# e C++
   
 
 
