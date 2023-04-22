@@ -1,7 +1,7 @@
 ### Olá! meu nome é Daniel Rodrigues 👋
 **Sobre mim**
   - Tenho conhecimento em Python, VBS, PHP, C# e C++
-  - Entusiasta em GamingHacking e Engenharia reversa
+  - Entusiasta em GamingHacking e Reverse Engineering
   - Estudante de Inglês 
   
 
