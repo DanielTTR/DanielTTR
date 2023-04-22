@@ -2,7 +2,7 @@
 **Sobre mim**
   - Tenho conhecimento em Python, VBS, PHP, C# e C++
   - Entusiasta em GamingHacking e Engenharia reversa
-  - Estudante de ingles 
+  - Estudante de Inglês 
   
 
 
