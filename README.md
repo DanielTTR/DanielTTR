@@ -1,7 +1,8 @@
 ### Olá! meu nome é Daniel Rodrigues 👋
 **Sobre mim**
-  - Cursando 5º periodo de analise e desenvolvimento de sistemas 
-  - Tenho conhecimento basico de Python, VBS, C# e C++
+  - Tenho conhecimento em Python, VBS, PHP, C# e C++
+  - Entusiasta em GamingHacking e Engenharia reversa
+  - Estudante de ingles 
   
 
 
